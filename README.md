@@ -6,7 +6,7 @@
 
 This project analyzes tech job postings on LinkedIn in 2023 (Q1-Q2) in KSA (Kingdom of Saudi Arabia). The analysis covers the most wanted job titles and their percentages.
 
-![Tech Job Analysis]([path/to/your/image.png](https://raw.githubusercontent.com/AlshehriAli0/Tech-Job-Analysis/main/Figure_1.webp))
+![Tech Job Analysis](https://github.com/AlshehriAli0/Tech-Job-Analysis/blob/main/Figure_1.jpg)
 
 ## Data Cleaning and Refining
 
